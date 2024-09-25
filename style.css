@@ -749,7 +749,7 @@ fieldset legend {
 }
 
 .common-bg {
-    background-color: #f6f6f6;
+    background-color: #000000;
 }
 
 .theme-color {
@@ -3464,12 +3464,11 @@ only screen and (min-width: 768px) and (max-width: 991.98px) {
     font-size: 30px;
     font-weight: 400;
     line-height: 1;
-    color: #111;
+    color: #ffffff;
     display: block;
     padding-bottom: 10px;
     text-transform: capitalize;
 }
-
 @media only screen and (max-width: 767.98px) {
     .breadcrumb-wrap h1 {
         font-size: 22px;
@@ -3495,7 +3494,7 @@ only screen and (min-width: 768px) and (max-width: 991.98px) {
 }
 
 .breadcrumb-wrap .breadcrumb .breadcrumb-item a {
-    color: #333333;
+    color: #ffffff;
     font-size: 14px;
     font-weight: 400;
     line-height: 1;
@@ -3518,7 +3517,7 @@ only screen and (min-width: 768px) and (max-width: 991.98px) {
 }
 
 .breadcrumb-wrap .breadcrumb .breadcrumb-item.active {
-    color: #CC2121;
+    color: #ffffff;
     font-size: 14px;
     font-weight: 400;
     text-transform: capitalize;
